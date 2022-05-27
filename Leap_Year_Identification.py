@@ -1,8 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[107]:
-
 
 def is_leap(year):
     leap = False
@@ -15,4 +11,3 @@ def is_leap(year):
     else:
         return leap
     return leap
-
